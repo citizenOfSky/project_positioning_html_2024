@@ -88,6 +88,7 @@ main{
     margin-top: 31px;
 }
 .container_1 div button:first-child{
+    font-family: "Outfit", sans-serif;
     width: 256px;
     height: 95px;
     border: none;
@@ -99,6 +100,7 @@ main{
     text-transform: uppercase;
 }
 .container_1 div button:last-child{
+    font-family: "Outfit", sans-serif;
     width: 254px;
     height: 95px;
     border-radius: 50px;
@@ -204,6 +206,7 @@ main{
     margin-left: 5px;
 }
 .border_extra>button{
+    font-family: "Outfit", sans-serif;
     width: 126px;
     height: 68px;
     background: #02061A;
@@ -373,6 +376,7 @@ main{
     position: absolute;
 }
 .monkey>button{
+    font-family: "Outfit", sans-serif;
     width: 147.461px;
     height: 51px;
     border-radius: 3px;
@@ -381,7 +385,6 @@ main{
     color: #52A7C6;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #02061A;
-    font-family: "Outfit", sans-serif;
     font-size: 40px;
     font-weight: 700;
     text-transform: capitalize;
@@ -482,13 +485,13 @@ main{
     margin: 24px 0 39px 0;
 }
 .container_6>button{
+    font-family: "Outfit", sans-serif;
     width: 344px;
     height: 85px;
     border: none;
     border-radius: 50px;
     background: #000;
     color: #FFF;
-    font-family: "Outfit", sans-serif;
     font-size: 40px;
     font-weight: 700;
     line-height: 60px; /* 150% */
@@ -550,6 +553,7 @@ form{
 input[type="email"],
 input[type="submit"]
 {
+    font-family: "Outfit", sans-serif;
     text-transform: capitalize;;
     font-size: 20px;
     border: none;
